@@ -1,6 +1,6 @@
 # Fractol
 
-Fractol is a fractal visualization project developed in C, using the [MinilibX](libs/minilibx-linux/) graphics library. This project was created as part of the 42 school curriculum to explore 2D graphics programming, mathematical visualization, and interactive application development.
+Fractol is a fractal visualization project developed in C, using the [MinilibX](/fractol/libs/minilibx-linux/) graphics library. This project was created as part of the 42 school curriculum to explore 2D graphics programming, mathematical visualization, and interactive application development.
 
 ## Features
 
@@ -89,7 +89,7 @@ fractol/
 
 ## License
 
-This project uses the BSD 2-Clause License. See [libs/minilibx-linux/LICENSE](libs/minilibx-linux/LICENSE) for details.
+This project uses the BSD 2-Clause License. See [libs/minilibx-linux/LICENSE](/fractol/libs/minilibx-linux/LICENSE) for details.
 
 ---
 
