@@ -82,7 +82,7 @@ fractol/
 
 ## Screenshots
 
-![alt text](<屏幕截图 2025-06-10 094605.png>)
+![alt text](<094605.png>)
 ![alt text](image-3.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
